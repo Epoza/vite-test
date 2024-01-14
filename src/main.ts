@@ -14,7 +14,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     </a>
     <h1>Vite + TypeScript</h1>
     <div class="card">
-      <button id="counter" type="button"></button>
+      <button class="border-1 border-black" id="counter" type="button"></button>
     </div>
     <div id="hello-world"></div>
     <p class="read-the-docs">
